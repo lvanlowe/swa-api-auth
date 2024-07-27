@@ -5,7 +5,7 @@
       "context": "http://localhost:4200",
       "run": "npm start",
       "apiLocation": "",
-      "outputLocation": "dist/swa-basic-api",
+      "outputLocation": "dist/swa-api-auth",
       "devserverTimeout": 10000,
       "open": "true"
     }

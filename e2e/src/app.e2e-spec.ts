@@ -10,7 +10,7 @@ describe('workspace-project App', () => {
 
   it('should display welcome message', () => {
     page.navigateTo();
-    expect(page.getTitleText()).toEqual('swa-basic-api app is running!');
+    expect(page.getTitleText()).toEqual('swa-api-auth app is running!');
   });
 
   afterEach(async () => {

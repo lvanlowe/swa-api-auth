@@ -1,5 +1,5 @@
 {
-  "name": "swa-basic-api",
+  "name": "swa-api-auth",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",

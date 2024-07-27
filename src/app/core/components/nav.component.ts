@@ -33,6 +33,7 @@ import { UserInfo } from '../model/user-info';
       <p>Welcome</p>
       <p>{{ userInfo?.userDetails }}</p>
       <p>{{ userInfo?.identityProvider }}</p>
+      <p>{{ userInfo?.userRoles }}</p>
     </div>
   `,
 })
